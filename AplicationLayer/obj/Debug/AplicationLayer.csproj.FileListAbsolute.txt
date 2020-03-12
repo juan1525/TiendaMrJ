@@ -37,3 +37,18 @@ D:\Desktop\TiendaBiofabrica\AplicationLayer\obj\Debug\AplicationLayer.csproj.Gen
 D:\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\AplicationLayer\bin\Debug\AplicationLayer.exe.config
 D:\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\AplicationLayer\obj\Debug\AplicationLayer.exe
 D:\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\AplicationLayer\obj\Debug\AplicationLayer.pdb
+D:\Documents\Sena\TiendaMrJ\AplicationLayer\bin\Debug\AplicationLayer.exe.config
+D:\Documents\Sena\TiendaMrJ\AplicationLayer\obj\Debug\AplicationLayer.exe
+D:\Documents\Sena\TiendaMrJ\AplicationLayer\obj\Debug\AplicationLayer.pdb
+D:\Documents\Sena\TiendaMrJ\AplicationLayer\bin\Debug\AplicationLayer.exe
+D:\Documents\Sena\TiendaMrJ\AplicationLayer\bin\Debug\AplicationLayer.pdb
+D:\Documents\Sena\TiendaMrJ\AplicationLayer\bin\Debug\BusinessLayer.dll
+D:\Documents\Sena\TiendaMrJ\AplicationLayer\bin\Debug\Entities.dll
+D:\Documents\Sena\TiendaMrJ\AplicationLayer\bin\Debug\DataLayer.dll
+D:\Documents\Sena\TiendaMrJ\AplicationLayer\bin\Debug\BusinessLayer.pdb
+D:\Documents\Sena\TiendaMrJ\AplicationLayer\bin\Debug\Entities.pdb
+D:\Documents\Sena\TiendaMrJ\AplicationLayer\bin\Debug\DataLayer.pdb
+D:\Documents\Sena\TiendaMrJ\AplicationLayer\obj\Debug\AplicationLayer.csprojResolveAssemblyReference.cache
+D:\Documents\Sena\TiendaMrJ\AplicationLayer\obj\Debug\AplicationLayer.frmClientes.resources
+D:\Documents\Sena\TiendaMrJ\AplicationLayer\obj\Debug\AplicationLayer.Properties.Resources.resources
+D:\Documents\Sena\TiendaMrJ\AplicationLayer\obj\Debug\AplicationLayer.csproj.GenerateResource.Cache

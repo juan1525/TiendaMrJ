@@ -8,3 +8,8 @@ C:\Users\ADSI luis\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\Entiti
 C:\Users\ADSI luis\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
 C:\Users\ADSI luis\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\Entities\obj\Debug\Entities.dll
 C:\Users\ADSI luis\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\Entities\obj\Debug\Entities.pdb
+D:\Documents\Sena\TiendaMrJ\Entities\bin\Debug\Entities.dll
+D:\Documents\Sena\TiendaMrJ\Entities\bin\Debug\Entities.pdb
+D:\Documents\Sena\TiendaMrJ\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+D:\Documents\Sena\TiendaMrJ\Entities\obj\Debug\Entities.dll
+D:\Documents\Sena\TiendaMrJ\Entities\obj\Debug\Entities.pdb

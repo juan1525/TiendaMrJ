@@ -20,19 +20,22 @@ namespace AplicationLayer
             InitializeComponent();
 
         }
-        public static bool  ProbarConexion()
+        public static bool ProbarConexion()
         {
-            if (.ProbarConexion()== true)
+            if (ClientesBusiness.ProbarConexion()==true)
             {
                 MessageBox.Show("Conexion Exitosa");
             }
-            
+            return false;     
         }
+
         
+
         private void Form1_Load(object sender, EventArgs e)
         {
 
             CargarFechas();
+            //ProbarConexion();
            
         }
 
@@ -46,10 +49,29 @@ namespace AplicationLayer
                 cliente.PrimerApellido = txtprimerapellido.Text;
                 cliente.SegudoApellido = txtsegundoapellido.Text;
                 cliente.Telefono = txtnumero.Text;
+                cliente.Email = txtemail.Text;
                 cliente.direccion = txtdireccion.Text;
-                cliente.FechaNacimiento = Convert.ToDateTime(cbdia.Text + "," + cbmes.Text + "," + cbaño.Text);
+                cliente.FechaNacimiento = Convert.ToDateTime(cbaño.Text + "," + cbmes.Text + "," + cbdia.Text);
+
+            if (ClientesBusiness.GuardarCliente(cliente))
+            {
+                MessageBox.Show("Usuario guardado con éxito");
+            }
     }
 
+        private void LimpiarFormulario() 
+        { 
+            cbTipoDocumento.Text="";
+            txtdocumento.Text = "";
+            txtprimernombre.Text = "";
+            txtsegundonombre.Text = "";
+            txtprimerapellido.Text = "";
+            txtsegundoapellido.Text = "";
+            txtnumero.Text = "";
+            txtemail.Text = "";
+            txtdireccion.Text = "";
+
+        }
 
         private void txtTipoDocumento_SelectedIndexChanged(object sender, EventArgs e)
         {
@@ -77,7 +99,7 @@ namespace AplicationLayer
             
             int aux = DateTime.Now.Year;
 
-            for (int anyo = 1900; anyo <=2060 ; anyo++)
+            for (int anyo = 1900; anyo <=aux ; anyo++)
             {
                 cbaño.Items.Add(anyo);
             }
@@ -85,7 +107,11 @@ namespace AplicationLayer
 
         private void btnguardar_Click(object sender, EventArgs e)
         {
-            Validacion();
+           if (Validacion())
+           {
+               guardarBD();
+               MessageBox.Show("Guardado");
+           }
         }
         private bool Validacion() 
         {
@@ -183,6 +209,11 @@ namespace AplicationLayer
                 return;
             }
         }
+
+            private void btncancelar_Click(object sender, EventArgs e)
+            {
+
+            }
         
         
         

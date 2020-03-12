@@ -7,3 +7,12 @@ C:\Users\ADSI luis\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\Busine
 C:\Users\ADSI luis\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
 C:\Users\ADSI luis\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\BusinessLayer\obj\Debug\BusinessLayer.dll
 C:\Users\ADSI luis\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\Documents\Sena\TiendaMrJ\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Documents\Sena\TiendaMrJ\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Documents\Sena\TiendaMrJ\BusinessLayer\bin\Debug\DataLayer.dll
+D:\Documents\Sena\TiendaMrJ\BusinessLayer\bin\Debug\Entities.dll
+D:\Documents\Sena\TiendaMrJ\BusinessLayer\bin\Debug\DataLayer.pdb
+D:\Documents\Sena\TiendaMrJ\BusinessLayer\bin\Debug\Entities.pdb
+D:\Documents\Sena\TiendaMrJ\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+D:\Documents\Sena\TiendaMrJ\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Documents\Sena\TiendaMrJ\BusinessLayer\obj\Debug\BusinessLayer.pdb
